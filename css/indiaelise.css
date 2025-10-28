@@ -1,0 +1,29 @@
+
+header {
+    background-image: url(../images/starhead.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+h1,h3 {
+    font-family: "Lacquer", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+section{
+    background-color: darkslategray;
+}
+
+body{
+    font-family: "Headland One", serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+footer{
+    background-color:rgb(36, 35, 35);
+}
+nav{
+    background-color:rgb(36, 35, 35) ;
+}
